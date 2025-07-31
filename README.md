@@ -1,7 +1,6 @@
 # TalentScout AI – Hiring Assistant Chatbot 🤖
 
 A Streamlit-based AI-powered chatbot that screens technical candidates by collecting profile data and generating tailored technical and behavioral questions using Google's Gemini AI.
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://talentscout-ai-interviewe.streamlit.app/)
 
 ## 🚀 Features
 
